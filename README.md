@@ -1,6 +1,4 @@
-# Constrained-Functional-DNN
-
-# Neural Network Training for Functional Data using Penalized Geodesic Distance, Tangent space MSE loss with Legendre Polynomials as the basis.  
+# Neural Network Training for Functional Data using Penalized Geodesic Distance, Tangent space MSE loss with Legendre Polynomials as the basis for Regression Tasks.  
   
 This project involves training neural networks for functional data using the penalized geodesic distance loss and MSE loss on the tangent space with Legendre Polynomials for basis decomposition. 
 
